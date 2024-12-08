@@ -268,7 +268,7 @@ async def start(client: Client, m: Message):
         )
         
         animation_steps = [
-            "⚡ᴅ", "⚡ᴅι", "⚡ᴅιи", "⚡ᴅιиg", "⚡ᴅιиg ᴅ", "⚡ᴅιиg ᴅσ", "⚡ᴅιиg ᴅσи", "⚡ᴅιиg ᴅσиg", "⚡ᴅιиg ᴅσиg ꨄ︎", "⚡sᴛαятɪɴɢ..."
+            "P", "Po", "Pow", "Powe", "Power", "Powere", "Powered By", "Powered By L", "Powered By Le", "Powered By Legit"
         ]
 
         for step in animation_steps:
